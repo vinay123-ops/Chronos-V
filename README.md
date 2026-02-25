@@ -92,5 +92,4 @@ Hybrid Kernels: Exploring Mamba + Local Attention fusions for high-frequency det
 
 We are looking for collaborators deep in State-Space Models (SSMs), Neural ODEs, and Latent Geometry. If you are interested in pushing the boundaries of what non-transformer architectures can do, please open an issue or reach out via DM.
 
-Acknowledgments
 Special thanks to Albert Gu and Tri Dao for their pioneering work on the Mamba architecture and State-Space Models.
