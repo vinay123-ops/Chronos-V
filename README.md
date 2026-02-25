@@ -79,3 +79,18 @@ conda activate chronos-v
 pip install torch torchvision torchaudio
 pip install mamba-ssm causal-conv1d>=1.2.0
 pip install diffusers transformers opencv-python matplotlib
+
+```
+🗺️ Roadmap & Collaboration
+We are currently refining the following areas:
+
+Complex ODE Stability: Optimizing the imaginary component for fluid dynamics and high-frequency motion.
+
+Scaling Studies: Benchmarking FVD (Fréchet Video Distance) against sequence length.
+
+Hybrid Kernels: Exploring Mamba + Local Attention fusions for high-frequency detail.
+
+We are looking for collaborators deep in State-Space Models (SSMs), Neural ODEs, and Latent Geometry. If you are interested in pushing the boundaries of what non-transformer architectures can do, please open an issue or reach out via DM.
+
+Acknowledgments
+Special thanks to Albert Gu and Tri Dao for their pioneering work on the Mamba architecture and State-Space Models.
